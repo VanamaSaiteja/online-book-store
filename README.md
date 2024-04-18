@@ -74,7 +74,7 @@ insert into books values('9780132778046','Effective Java','Joshua Bloch',368,21)
 insert into books values('9781484255995','Practical Rust Projects','Shing Lyu',257,15);
 insert into users values('demo','demo','Demo','User','Demo Home','42502216225','demo@gmail.com',2);
 insert into users values('Admin','Admin','Mr.','Admin','Haldia WB','9584552224521','admin@gmail.com',1);
-insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','shashi@gmail.com',2);
+
 
 commit;
 
@@ -102,7 +102,7 @@ Step 6: Check Running The Site At  <a href="http://localhost:8083/onlinebookstor
 
 Step 7: Default Username And Password For Admin Is "Admin" And "Admin"
 
-Step 8: The default Username And Password For User Is "shashi" And "shashi"
+Step 8: The default Username And Password For User Is "User" And "User"
 
 
                                                                                                 
